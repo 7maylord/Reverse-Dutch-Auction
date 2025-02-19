@@ -1,13 +1,4 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+## Deploying contracts with the account: 0xbE3171d0e36a012319a5C76bCcD71250499b1C16
+## ERC20 Token deployed at: 0x82c3532Eef22c191c6b342Fa91DE1f599Bf07056
+## Auction contract deployed at: 0x7517192ba4af59138521f17747468Da08f75365b
+## 1000 tokens transferred to the auction contract.
